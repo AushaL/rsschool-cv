@@ -3,7 +3,7 @@
 ### Contact Info
  - Email: [thetingler85@gmail.com](mailto:thetingler85@gmail.com)
  - Phone: [+375257124499](tel:+375257124499)
- - Telegram: [@](https://t.me/)
+ - Telegram: [@](https://t.me/AushaL)
 
 ### Summary
 26 years
