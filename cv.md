@@ -15,7 +15,7 @@
  - Technologies / Languages: HTML & CSS
  - CSS Frameworks: Bootstrap
  - JS Lib / Frameworks: jQuery 
- - Graphic: Photoshop
+ - Graphic: Photoshop, Figma, Avocode, Zeppelin
 
 ### Education
  - IT-Academy
